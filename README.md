@@ -72,3 +72,7 @@ ER DIAGRAM OF MODEL :
 
 CONCLUSION:
  To be conclude that the model would help the management in many useful apects ,so that teachers can take the "Student Tracking System" with them wherever they go.The "Student Tracking System" can calculate your grades and track your attendance. All the instructor has to do is enter the student grades, and it will automatically add and average them.If a teacher believes that additional features should be added to the system, he or she can readily modify the system to meet those demands. Finally, we are employing the Open Source philosophy, and the source code will be made available on the system's official website.
+
+
+OVERVIEW OF OUR PRESENTATION:
+https://drive.google.com/file/d/11dQavm7ZCYjz4vWi9csqeZ6UiaR9KBd6/view?usp=share_link
